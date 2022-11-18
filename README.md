@@ -2,4 +2,4 @@
 
 My first repository on GitHub
 
-I love :wine :food, and :milk:.
+i love 🍷 🥘 and 🥛.
